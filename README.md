@@ -74,6 +74,8 @@ That's it!
 
 You can check for impacts on videos, inages or gifs
 
+yolo detect predict model="models\\best.pt" source="YOUR VIDEO OR IMAGE FILE"
+
 
 
 
