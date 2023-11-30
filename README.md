@@ -76,7 +76,9 @@ You can check for impacts on videos, inages or gifs
 
 yolo detect predict model="models\\best.pt" source="YOUR VIDEO OR IMAGE FILE"
 
+If you want to create you own models you must build datasets with (Visual Object Tagging Tool). https://github.com/Microsoft/VoTT/releases
 
+copy your exported vott dataset to /vott folder edit .py files for your needs and run train.py to make your new model.
 
 
 
