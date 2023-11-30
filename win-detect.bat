@@ -1,0 +1,1 @@
+yolo detect predict model=best.pt source=".\\detection-videos\\impactTest.mp4"

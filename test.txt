@@ -1,0 +1,8 @@
+data/obj/00000120.png
+data/obj/00000089.png
+data/obj/00000103.png
+data/obj/00000003.png
+data/obj/00000114.png
+data/obj/00000087.png
+data/obj/00000088.png
+data/obj/00000108.png
