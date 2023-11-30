@@ -1,1 +1,1 @@
-yolo detect predict model=best.pt source=".\\detection-videos\\impactTest.mp4"
+yolo detect predict model="models\\best.pt" source=".\\detection-videos\\impactTest1.mp4"
