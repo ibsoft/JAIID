@@ -6,7 +6,7 @@ JΑΙΙD harnesses the power of advanced artificial intelligence to revolutioniz
 
 Welcome to the future of impact flash detection—welcome to JΑΙΙD.
 
-Ioannis A. (Yannis) Bouhras <ioannis.bouhras@gmail.com> <mycyberdevops@gmail.com>
+Ioannis A. (Yannis) Bouhras <ioannis.bouhras@gmail.com> <mycyberdevops@gmail.com> - Project based on Ultralytics YOLO8 real-time object detection and image segmentation model !!!
 
 INSTALLATION & REQUIREMENTS
 
