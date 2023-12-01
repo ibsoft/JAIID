@@ -59,8 +59,8 @@ IF LINUX
 python3 -m pip install --upgrade pip
 
 IF WINDOWS 
-
 #Test sample .mp4 video for impacts
+
 .\win-detect.bat
 
 IF LINUX 
@@ -72,7 +72,7 @@ Look for results in run\\detect\\predict\\impactTest1.mp4
 
 That's it!
 
-You can check for impacts on videos, inages or gifs
+You can check for impacts on videos, images or gifs
 
 yolo detect predict model="models\\best.pt" source="YOUR VIDEO OR IMAGE FILE"
 
