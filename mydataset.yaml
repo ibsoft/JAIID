@@ -7,12 +7,6 @@ val: val #validation images. For simplicity we will use the same images as in tr
 nc: 3
 names: ['Impact', 'Satellite','Shadow']
 
-train: train  # train images relative path (path)
-val: val      # validation images. For simplicity, we will use the same images as in training
-
-nc: 3
-names: ['Impact', 'Satellite', 'Shadow']
-
 train_size: 0.9
 val_size: 0.1
 
