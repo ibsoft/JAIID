@@ -7,7 +7,7 @@ val: val #validation images. For simplicity we will use the same images as in tr
 nc: 3
 names: ['Impact', 'Satellite','Shadow']
 
-rain_size: 0.9
+train_size: 0.9
 val_size: 0.1
 
 batch_size: 64
