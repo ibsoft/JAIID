@@ -6,3 +6,45 @@ val: val #validation images. For simplicity we will use the same images as in tr
 
 nc: 3
 names: ['Impact', 'Satellite','Shadow']
+
+train: train  # train images relative path (path)
+val: val      # validation images. For simplicity, we will use the same images as in training
+
+nc: 3
+names: ['Impact', 'Satellite', 'Shadow']
+
+train_size: 0.9
+val_size: 0.1
+
+batch_size: 64
+subdivisions: 16
+
+width: 416
+height: 416
+
+# Image augmentation parameters
+exposure: 1.5
+saturation: 1.5
+hue: 0.1
+jitter: 0.3
+
+flip_horizontal: 1
+flip_vertical: 0
+degrees: 0
+translate: 0.1
+scale: 0.5
+
+mosaic: 1
+mixup: 0
+
+letter_box: 0
+
+# Additional augmentation parameters
+occlusion:
+  - 0.1
+  - 0.3
+
+blur: 1
+mosaic_bound: 1
+contrast: 1
+saturated: 1
