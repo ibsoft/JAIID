@@ -83,5 +83,7 @@ If you want to create you own models you must build datasets with (Visual Object
 
 copy your exported vott dataset to /vott folder edit .py files for your needs and run train.py to make your new model.
 
+Download latest community models from here https://github.com/ibsoft/ibsoft-updates/tree/main/jaiid
+
 
 
