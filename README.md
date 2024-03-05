@@ -77,7 +77,7 @@ That's it!
 
 You can check for impacts on videos, images or gifs
 
-yolo detect predict model="models\\best.pt" source="YOUR VIDEO OR IMAGE FILE"
+yolo detect predict model="models\\best.pt" project=PROJECT_NAME name=NAME source="YOUR VIDEO OR IMAGE FILE"
 
 If you want to create you own models you must build datasets with (Visual Object Tagging Tool). https://github.com/Microsoft/VoTT/releases
 
