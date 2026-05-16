@@ -87,3 +87,15 @@ Download latest community models from here https://github.com/ibsoft/ibsoft-upda
 
 
 
+https://github.com/user-attachments/assets/64f90691-be7d-470c-be1d-c43ef73111d7
+
+<img width="1154" height="1171" alt="00000522" src="https://github.com/user-attachments/assets/96add250-d986-4a6c-8404-4c5585c06df4" />
+<img width="1536" height="768" alt="results-1536x768" src="https://github.com/user-attachments/assets/19d30de1-0108-4ac3-9ac0-754c27fe61ce" />
+<img width="1052" height="982" alt="jaid" src="https://github.com/user-attachments/assets/54385c0f-b441-41fc-8745-baaa79d92935" />
+<img width="1024" height="683" alt="F1_curve-1024x683" src="https://github.com/user-attachments/assets/45fc6512-648f-4f53-8271-fa4364cd42db" />
+<img width="1536" height="1380" alt="detects-sample-1536x1380" src="https://github.com/user-attachments/assets/af2f64ca-932d-4333-b2d9-c38acec15a44" />
+<img width="880" height="720" alt="91" src="https://github.com/user-attachments/assets/4ee8063e-5c7c-48b7-84eb-098ee3e7630c" />
+
+
+
+
